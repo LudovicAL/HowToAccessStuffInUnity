@@ -1,8 +1,6 @@
 # HowToAccessStuffInUnity
-A quick tutorial on how to access various items in a Unity project.
 
-
-```
+```C#
 //Here is how to access various items in your unity project. Of course, for the
 //following methods to work, your script has to (1) incorporate 'using UnityEngine;'
 //and (2) inherit 'MonoBehaviour'. You do not however have to worry too much
