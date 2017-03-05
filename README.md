@@ -2,7 +2,7 @@
 A quick tutorial on how to access various items in a Unity project.
 
 
-
+```
 //Here is how to access various items in your unity project. Of course, for the
 //following methods to work, your script has to (1) incorporate 'using UnityEngine;'
 //and (2) inherit 'MonoBehaviour'. You do not however have to worry too much
@@ -82,3 +82,4 @@ public class HowToAccessShit : MonoBehaviour {
 		t = go.transform.parent; //This is unique to Transforms. Other components must be accessed with the GetComponent method.
 	}
 }
+```
